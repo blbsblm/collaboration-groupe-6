@@ -1,1 +1,9 @@
 Résumé de cours – L’essentiel de Git et GitHub
+
+Introduction
+Git est un système de contrôle de version distribué qui permet de suivre les modifications d’un projet. GitHub est une plateforme en ligne qui permet d’héberger des dépôts Git et de collaborer avec d’autres utilisateurs.
+
+1. Git : le système de contrôle de version
+- Git enregistre l’historique des modifications de fichiers.
+- Chaque modification est enregistrée sous forme de "commit", avec un message explicatif.
+- Git permet de revenir à une version antérieure si nécessaire.
