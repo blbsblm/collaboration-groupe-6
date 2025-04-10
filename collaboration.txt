@@ -7,3 +7,16 @@ Git est un système de contrôle de version distribué qui permet de suivre les 
 - Git enregistre l’historique des modifications de fichiers.
 - Chaque modification est enregistrée sous forme de "commit", avec un message explicatif.
 - Git permet de revenir à une version antérieure si nécessaire.
+
+2. Les commandes Git de base
+- git init : initialise un nouveau dépôt Git.
+- git clone : copie un dépôt existant.
+- git add : ajoute un ou plusieurs fichiers à l’index (zone de préparation).
+- git commit -m "message" : enregistre les changements.
+- git push : envoie les commits vers un dépôt distant.
+- git pull : récupère les mises à jour du dépôt distant.
+
+3. GitHub : la plateforme de collaboration
+- GitHub permet de stocker des projets Git sur le cloud.
+- On peut créer des dépôts publics ou privés.
+- On peut inviter des collaborateurs, suivre les issues (problèmes), faire des pull requests, etc.
