@@ -20,3 +20,17 @@ Git est un système de contrôle de version distribué qui permet de suivre les 
 - GitHub permet de stocker des projets Git sur le cloud.
 - On peut créer des dépôts publics ou privés.
 - On peut inviter des collaborateurs, suivre les issues (problèmes), faire des pull requests, etc.
+
+4. Branches et collaboration
+- Une branche permet de travailler sur une nouvelle fonctionnalité sans toucher à la version principale (main).
+- Une fois la branche terminée, on peut créer une pull request pour la fusionner.
+- Les autres membres peuvent commenter ou approuver les changements.
+
+5. Bonnes pratiques
+- Faire des commits clairs et fréquents.
+- Utiliser des noms de branche explicites.
+- Toujours pull avant de push pour éviter les conflits.
+- Utiliser des messages de commit informatifs (ex : "Ajout de la section sur les branches").
+
+Conclusion
+Git et GitHub sont des outils puissants pour le développement collaboratif. Ils permettent de travailler efficacement en équipe, même à distance, tout en gardant une trace claire de chaque contribution.
